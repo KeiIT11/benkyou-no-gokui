@@ -4,14 +4,14 @@
 勉強法１０冊分の知識を学べたり、集中力を保って勉強がうまくできる機能が盛りだくさん!  
 - 使用言語：Dart, Flutter  
 - 開発期間：３ヶ月  
-- 担当　　　　　　　：全部  
+- 担当  ：全部  
 
 ## 使い方
-方法１. ストアからインストール  
+### 方法2. ストアからインストール  
 iOS: [https://apple.co/3iD88Zu](https://apple.co/3iD88Zu)  
-Android:　　[https://play.google.com/store/apps/details?id=com.keiit596.ramp&pli=1](https://play.google.com/store/apps/details?id=com.keiit596.ramp&pli=1)  
+Android:　[https://play.google.com/store/apps/details?id=com.keiit596.ramp&pli=1](https://play.google.com/store/apps/details?id=com.keiit596.ramp&pli=1)  
 
-方法2. ローカルで実行
+### 方法2. ローカルで実行
 ```
 git clone ~.git
 flutter clean
