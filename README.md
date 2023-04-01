@@ -18,7 +18,7 @@ Android: [https://play.google.com/store/apps/details?id=com.keiit596.ramp&pli=1]
 
 ### 方法2. ローカルで実行
 ```
-git clone ~.git
+git clone https://github.com/KeiIT11/benkyou-no-gokui.git
 flutter clean
 flutter packages get
 flutter run
