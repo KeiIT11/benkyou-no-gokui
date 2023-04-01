@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81548811/229256163-7dcc4dc1-ba27-47fb-924d-ea4b298e72bf.jpg" alt="Feature Graphic" width="70%">
 </p>  
+
 ![Feature Graphic](https://user-images.githubusercontent.com/81548811/229256163-7dcc4dc1-ba27-47fb-924d-ea4b298e72bf.jpg)  
+
 ![Android 1](https://user-images.githubusercontent.com/81548811/229256245-c3fde846-926c-4875-916c-b9fe3599e939.jpg)  
 ![Android 2](https://user-images.githubusercontent.com/81548811/229256233-2eb87875-dcf6-4693-b3be-0bd278efcb41.jpg)
 ![Android 3](https://user-images.githubusercontent.com/81548811/229256259-a1aaacfe-b396-469b-99e2-e3d0b9d2dfbd.jpg)
