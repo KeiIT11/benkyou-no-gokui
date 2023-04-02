@@ -39,7 +39,7 @@ flutter run
 
 ### 3. タイマー機能
 
-img src="https://user-images.githubusercontent.com/81548811/229256299-99af8cb7-caf4-4119-8c87-1d27ae841714.jpg" alt="Android 4" width="20%"><img src="https://user-images.githubusercontent.com/81548811/229256311-e9981873-50be-498e-bd5c-2ecbf3a7e1d6.jpg" alt="Android 5" width="20%">
+<img src="https://user-images.githubusercontent.com/81548811/229256299-99af8cb7-caf4-4119-8c87-1d27ae841714.jpg" alt="Android 4" width="20%"><img src="https://user-images.githubusercontent.com/81548811/229256311-e9981873-50be-498e-bd5c-2ecbf3a7e1d6.jpg" alt="Android 5" width="20%">
 
 タイマー機能は、ポモドーロテクニックを使って、効率的に作業ができる機能です。 (ポモドーロ機能：２５分勉強、５分休憩を繰り返すことで１日の集中力を保つテクニック)
 
@@ -52,3 +52,7 @@ img src="https://user-images.githubusercontent.com/81548811/229256299-99af8cb7-c
 ## こだわりと苦労した点
 
 ## 今後のアップデート予定
+僕はこのアプリをポートフォリオの一つとしてではなく、プロダクトとしてグロースしていきたいと思っています。  
+具体的な計画としては  
+- 英語対応させる
+- 記事を充実させ
